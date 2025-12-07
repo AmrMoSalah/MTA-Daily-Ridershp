@@ -1,0 +1,2 @@
+The Metropolitan Transportation Authority (MTA) is the largest transit network in North America, serving over 12 counties across New York State and parts of Connecticut. This project analyzes the MTA Daily Ridership Dataset, which includes subway, bus, LIRR, Metro-North, Access-A-Ride, bridges & tunnels traffic, and Staten Island Railway data from March 2020 to 2025.
+The dashboard aims to visualize ridership trends, recovery rates after the COVID-19 pandemic, and year-over-year changes for operational and analytical insights.
